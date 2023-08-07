@@ -1,0 +1,7 @@
+name: aws-py-ec2-server
+description: A EC2 Server, using Python infrastructure as code
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+
